@@ -1,0 +1,6 @@
+# project directory
+
+# ignore file
+*.meta
+*.mat
+*.unity
