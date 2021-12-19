@@ -4,3 +4,4 @@
 *.meta
 *.mat
 *.unity
+*.physicMaterial
